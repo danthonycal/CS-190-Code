@@ -4,6 +4,10 @@ import time
 import sys
 import glob
 
+if len(sys.argv) < 2:
+    print("USE: python tracker2.py <tracker type> <video index>")
+    sys.exit()
+
 color=(255,0,0)
 thickness=2
 
