@@ -1,0 +1,966 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-0.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331099, "center_y":0.521849, "width":0.179108, "height":0.116578}, "confidence":0.995458}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-160.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331742, "center_y":0.521890, "width":0.179098, "height":0.115417}, "confidence":0.994117}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1040.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331821, "center_y":0.521349, "width":0.178992, "height":0.117259}, "confidence":0.995852}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.607860, "center_y":0.425529, "width":0.012006, "height":0.053678}, "confidence":0.912030}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.590435, "center_y":0.423738, "width":0.010439, "height":0.057052}, "confidence":0.500760}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1120.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331530, "center_y":0.521787, "width":0.177998, "height":0.116403}, "confidence":0.996074}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.611626, "center_y":0.416475, "width":0.010220, "height":0.040586}, "confidence":0.800301}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.595290, "center_y":0.416318, "width":0.008613, "height":0.039488}, "confidence":0.474739}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1200.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330856, "center_y":0.521903, "width":0.178267, "height":0.116083}, "confidence":0.995358}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1280.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331420, "center_y":0.521765, "width":0.178890, "height":0.114988}, "confidence":0.994809}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1360.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332264, "center_y":0.521743, "width":0.177068, "height":0.116503}, "confidence":0.995386}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1440.png", 
+ "objects": [ 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.053300, "center_y":0.765498, "width":0.022714, "height":0.020752}, "confidence":0.366599}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331986, "center_y":0.521596, "width":0.179216, "height":0.116405}, "confidence":0.994705}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.047570, "center_y":0.815638, "width":0.097067, "height":0.238174}, "confidence":0.869645}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1520.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331837, "center_y":0.521377, "width":0.178893, "height":0.115798}, "confidence":0.995539}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.031483, "center_y":0.761984, "width":0.063777, "height":0.195304}, "confidence":0.959560}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1600.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331894, "center_y":0.521506, "width":0.178653, "height":0.117104}, "confidence":0.994580}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.041192, "center_y":0.741806, "width":0.083296, "height":0.205428}, "confidence":0.954624}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1680.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332226, "center_y":0.521536, "width":0.178786, "height":0.116071}, "confidence":0.995473}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.043900, "center_y":0.754368, "width":0.087793, "height":0.177435}, "confidence":0.903616}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1760.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332389, "center_y":0.521650, "width":0.177414, "height":0.115842}, "confidence":0.994738}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.045947, "center_y":0.741079, "width":0.092432, "height":0.202839}, "confidence":0.982572}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-1840.png", 
+ "objects": [ 
+  {"class_id":16, "name":"dog", "relative_coordinates":{"center_x":0.045416, "center_y":0.746716, "width":0.093224, "height":0.192188}, "confidence":0.256109}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332160, "center_y":0.521757, "width":0.178908, "height":0.115538}, "confidence":0.995221}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.045238, "center_y":0.746509, "width":0.093288, "height":0.192504}, "confidence":0.827347}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10000.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.352697, "center_y":0.688468, "width":0.259424, "height":0.338166}, "confidence":0.998255}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330003, "center_y":0.521547, "width":0.181014, "height":0.117604}, "confidence":0.988448}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.536563, "center_y":0.663684, "width":0.026962, "height":0.101764}, "confidence":0.881023}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.542448, "center_y":0.589228, "width":0.041401, "height":0.149992}, "confidence":0.991869}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.113049, "center_y":0.699640, "width":0.085414, "height":0.191475}, "confidence":0.974130}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10080.png", 
+ "objects": [ 
+  {"class_id":34, "name":"baseball bat", "relative_coordinates":{"center_x":0.155135, "center_y":0.689604, "width":0.072028, "height":0.030540}, "confidence":0.576295}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.328993, "center_y":0.521420, "width":0.183199, "height":0.119359}, "confidence":0.993537}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.059767, "center_y":0.922234, "width":0.120606, "height":0.157904}, "confidence":0.701215}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.576109, "center_y":0.559750, "width":0.021943, "height":0.071531}, "confidence":0.670588}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.120237, "center_y":0.701665, "width":0.080181, "height":0.196741}, "confidence":0.983658}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.575630, "center_y":0.517162, "width":0.024298, "height":0.116699}, "confidence":0.981300}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.537714, "center_y":0.454028, "width":0.020220, "height":0.073439}, "confidence":0.711410}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10160.png", 
+ "objects": [ 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.477128, "center_y":0.555808, "width":0.033224, "height":0.083841}, "confidence":0.701877}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.329734, "center_y":0.521999, "width":0.180223, "height":0.117335}, "confidence":0.994846}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.585957, "center_y":0.501789, "width":0.013754, "height":0.038349}, "confidence":0.561055}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.117391, "center_y":0.702844, "width":0.077935, "height":0.191622}, "confidence":0.979613}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.587917, "center_y":0.477431, "width":0.020881, "height":0.081895}, "confidence":0.942307}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.477497, "center_y":0.513602, "width":0.034894, "height":0.095891}, "confidence":0.911335}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10240.png", 
+ "objects": [ 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.236258, "center_y":0.804421, "width":0.158356, "height":0.214274}, "confidence":0.962704}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330412, "center_y":0.522219, "width":0.182395, "height":0.117671}, "confidence":0.996273}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.153698, "center_y":0.677379, "width":0.056673, "height":0.164071}, "confidence":0.983011}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.233084, "center_y":0.741316, "width":0.093555, "height":0.211740}, "confidence":0.963988}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.589149, "center_y":0.453684, "width":0.016324, "height":0.070168}, "confidence":0.948401}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10320.png", 
+ "objects": [ 
+  {"class_id":29, "name":"frisbee", "relative_coordinates":{"center_x":0.053314, "center_y":0.765900, "width":0.022992, "height":0.023940}, "confidence":0.267163}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331079, "center_y":0.521943, "width":0.180979, "height":0.116077}, "confidence":0.994821}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.183979, "center_y":0.666669, "width":0.068462, "height":0.174094}, "confidence":0.988736}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.593065, "center_y":0.442649, "width":0.012027, "height":0.059870}, "confidence":0.920689}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10400.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330253, "center_y":0.522241, "width":0.183567, "height":0.115107}, "confidence":0.996134}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.189122, "center_y":0.665794, "width":0.051733, "height":0.167215}, "confidence":0.997052}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.600121, "center_y":0.429513, "width":0.009177, "height":0.054186}, "confidence":0.304868}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10480.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330206, "center_y":0.521541, "width":0.181749, "height":0.116972}, "confidence":0.994420}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.189364, "center_y":0.665195, "width":0.053325, "height":0.168130}, "confidence":0.996203}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.604416, "center_y":0.427350, "width":0.008729, "height":0.037706}, "confidence":0.450021}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10560.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330326, "center_y":0.521598, "width":0.181917, "height":0.116282}, "confidence":0.995550}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.187480, "center_y":0.665389, "width":0.054184, "height":0.169532}, "confidence":0.994710}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.609366, "center_y":0.416425, "width":0.010588, "height":0.039099}, "confidence":0.512975}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10640.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.329621, "center_y":0.521583, "width":0.182349, "height":0.116951}, "confidence":0.994770}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.187437, "center_y":0.665193, "width":0.055630, "height":0.170070}, "confidence":0.994705}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.590905, "center_y":0.401455, "width":0.008081, "height":0.026776}, "confidence":0.283464}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10720.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331294, "center_y":0.521780, "width":0.180943, "height":0.116138}, "confidence":0.994814}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.187867, "center_y":0.666912, "width":0.055428, "height":0.166969}, "confidence":0.994122}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.575182, "center_y":0.413569, "width":0.011489, "height":0.041954}, "confidence":0.833490}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10800.png", 
+ "objects": [ 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.551159, "center_y":0.452273, "width":0.013105, "height":0.035989}, "confidence":0.593149}, 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.551376, "center_y":0.441824, "width":0.015007, "height":0.052649}, "confidence":0.321184}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.551402, "center_y":0.441780, "width":0.015057, "height":0.052977}, "confidence":0.612059}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331399, "center_y":0.521612, "width":0.180415, "height":0.117003}, "confidence":0.994877}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.185570, "center_y":0.666546, "width":0.067736, "height":0.173677}, "confidence":0.992959}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10880.png", 
+ "objects": [ 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.489612, "center_y":0.530696, "width":0.027390, "height":0.067495}, "confidence":0.834320}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331355, "center_y":0.521809, "width":0.177851, "height":0.114733}, "confidence":0.996632}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.180014, "center_y":0.679432, "width":0.071172, "height":0.172505}, "confidence":0.992048}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.490821, "center_y":0.493524, "width":0.028462, "height":0.076934}, "confidence":0.909434}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-10960.png", 
+ "objects": [ 
+  {"class_id":3, "name":"motorbike", "relative_coordinates":{"center_x":0.229964, "center_y":0.806586, "width":0.148948, "height":0.164981}, "confidence":0.758022}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330882, "center_y":0.521869, "width":0.179688, "height":0.118720}, "confidence":0.994828}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.130298, "center_y":0.678277, "width":0.089832, "height":0.176175}, "confidence":0.958359}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.248747, "center_y":0.728506, "width":0.075634, "height":0.229792}, "confidence":0.874967}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.221209, "center_y":0.741051, "width":0.089123, "height":0.223280}, "confidence":0.548665}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11040.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331278, "center_y":0.521518, "width":0.179790, "height":0.117071}, "confidence":0.994168}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.088546, "center_y":0.730008, "width":0.107542, "height":0.164364}, "confidence":0.967598}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11120.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330375, "center_y":0.521670, "width":0.181094, "height":0.117385}, "confidence":0.994857}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.071972, "center_y":0.752451, "width":0.106633, "height":0.136613}, "confidence":0.973736}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11200.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330268, "center_y":0.521779, "width":0.180925, "height":0.117756}, "confidence":0.994559}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.111711, "center_y":0.720009, "width":0.117357, "height":0.209051}, "confidence":0.992557}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11280.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330114, "center_y":0.521713, "width":0.182221, "height":0.116753}, "confidence":0.995340}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.147928, "center_y":0.696755, "width":0.099048, "height":0.187614}, "confidence":0.994530}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11360.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332000, "center_y":0.521615, "width":0.178949, "height":0.117119}, "confidence":0.994588}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.146494, "center_y":0.704743, "width":0.087198, "height":0.168645}, "confidence":0.995608}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11440.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330601, "center_y":0.521488, "width":0.181700, "height":0.116821}, "confidence":0.994801}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.137683, "center_y":0.711188, "width":0.106627, "height":0.157601}, "confidence":0.991993}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11520.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330009, "center_y":0.521672, "width":0.181025, "height":0.117862}, "confidence":0.995017}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.150734, "center_y":0.713180, "width":0.075361, "height":0.149825}, "confidence":0.797667}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11600.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330198, "center_y":0.521430, "width":0.182199, "height":0.117400}, "confidence":0.992786}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.274832, "center_y":0.944726, "width":0.119057, "height":0.107266}, "confidence":0.310131}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.110870, "center_y":0.741548, "width":0.107554, "height":0.138013}, "confidence":0.914498}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.139870, "center_y":0.944424, "width":0.205742, "height":0.111810}, "confidence":0.737621}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11680.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331638, "center_y":0.521294, "width":0.180995, "height":0.117132}, "confidence":0.991566}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.423848, "center_y":0.725651, "width":0.074827, "height":0.194455}, "confidence":0.723938}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.453202, "center_y":0.718252, "width":0.032044, "height":0.116553}, "confidence":0.466430}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.406710, "center_y":0.821557, "width":0.045754, "height":0.120010}, "confidence":0.451447}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.419007, "center_y":0.726123, "width":0.072957, "height":0.205414}, "confidence":0.968229}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.097653, "center_y":0.771363, "width":0.112421, "height":0.130610}, "confidence":0.918763}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11760.png", 
+ "objects": [ 
+  {"class_id":26, "name":"handbag", "relative_coordinates":{"center_x":0.492774, "center_y":0.595995, "width":0.018805, "height":0.034485}, "confidence":0.275667}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330669, "center_y":0.521453, "width":0.178714, "height":0.117321}, "confidence":0.993720}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.497105, "center_y":0.645344, "width":0.028078, "height":0.086980}, "confidence":0.641764}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.519464, "center_y":0.597509, "width":0.017536, "height":0.085294}, "confidence":0.537768}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.076346, "center_y":0.769248, "width":0.134906, "height":0.139065}, "confidence":0.929850}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.504399, "center_y":0.585347, "width":0.038383, "height":0.126283}, "confidence":0.895062}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11840.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.037930, "center_y":0.848132, "width":0.075140, "height":0.126085}, "confidence":0.616353}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330378, "center_y":0.521523, "width":0.179329, "height":0.116355}, "confidence":0.994817}, 
+  {"class_id":1, "name":"bicycle", "relative_coordinates":{"center_x":0.543800, "center_y":0.549214, "width":0.021912, "height":0.085171}, "confidence":0.591254}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.060581, "center_y":0.803524, "width":0.116064, "height":0.156473}, "confidence":0.986380}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.544411, "center_y":0.516001, "width":0.025866, "height":0.101274}, "confidence":0.979644}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-11920.png", 
+ "objects": [ 
+  {"class_id":36, "name":"skateboard", "relative_coordinates":{"center_x":0.037358, "center_y":0.878739, "width":0.075756, "height":0.077296}, "confidence":0.266043}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330598, "center_y":0.521305, "width":0.180219, "height":0.117510}, "confidence":0.993868}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.050619, "center_y":0.810819, "width":0.103725, "height":0.130256}, "confidence":0.959653}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.567196, "center_y":0.464244, "width":0.016025, "height":0.046425}, "confidence":0.312558}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12000.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331144, "center_y":0.521381, "width":0.180168, "height":0.117348}, "confidence":0.993948}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.031248, "center_y":0.833096, "width":0.064050, "height":0.164225}, "confidence":0.928101}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.586962, "center_y":0.454902, "width":0.015355, "height":0.069955}, "confidence":0.857762}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12080.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332114, "center_y":0.521384, "width":0.181027, "height":0.118389}, "confidence":0.992673}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.597723, "center_y":0.439216, "width":0.013035, "height":0.054636}, "confidence":0.779038}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.028818, "center_y":0.851975, "width":0.058052, "height":0.188849}, "confidence":0.572203}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12160.png", 
+ "objects": [ 
+  {"class_id":65, "name":"remote", "relative_coordinates":{"center_x":0.931308, "center_y":0.921831, "width":0.135388, "height":0.164450}, "confidence":0.315719}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330934, "center_y":0.521684, "width":0.182139, "height":0.117474}, "confidence":0.993628}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.603648, "center_y":0.428420, "width":0.009813, "height":0.047884}, "confidence":0.743782}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12240.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331801, "center_y":0.521169, "width":0.179633, "height":0.116068}, "confidence":0.992665}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12320.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331862, "center_y":0.521488, "width":0.179039, "height":0.115616}, "confidence":0.993596}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12400.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330583, "center_y":0.521633, "width":0.181052, "height":0.116322}, "confidence":0.993199}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12480.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.329086, "center_y":0.521861, "width":0.180473, "height":0.116606}, "confidence":0.994516}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12560.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.329957, "center_y":0.521517, "width":0.180986, "height":0.116853}, "confidence":0.993373}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12640.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330839, "center_y":0.521681, "width":0.182027, "height":0.116875}, "confidence":0.993748}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12720.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330318, "center_y":0.521857, "width":0.181732, "height":0.116030}, "confidence":0.993856}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12800.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330771, "center_y":0.521821, "width":0.182065, "height":0.116062}, "confidence":0.994448}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12880.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330320, "center_y":0.521676, "width":0.180079, "height":0.116909}, "confidence":0.994227}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-12960.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331828, "center_y":0.521770, "width":0.179990, "height":0.114551}, "confidence":0.992743}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13040.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.329092, "center_y":0.521854, "width":0.182404, "height":0.116735}, "confidence":0.992289}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13120.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.329514, "center_y":0.521803, "width":0.182926, "height":0.115378}, "confidence":0.993807}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13200.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332805, "center_y":0.521330, "width":0.178600, "height":0.116434}, "confidence":0.992053}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13280.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332151, "center_y":0.521728, "width":0.179107, "height":0.117060}, "confidence":0.993456}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13360.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330128, "center_y":0.521486, "width":0.179162, "height":0.116349}, "confidence":0.992163}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13440.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332086, "center_y":0.521621, "width":0.179063, "height":0.116231}, "confidence":0.993642}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13520.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332020, "center_y":0.521366, "width":0.178174, "height":0.116226}, "confidence":0.992783}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.760631, "center_y":0.950053, "width":0.179951, "height":0.101424}, "confidence":0.564208}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13600.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332428, "center_y":0.521390, "width":0.177777, "height":0.115389}, "confidence":0.994205}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13680.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331871, "center_y":0.521241, "width":0.179734, "height":0.116679}, "confidence":0.993929}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.827767, "center_y":0.936481, "width":0.174359, "height":0.130217}, "confidence":0.631221}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13760.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330879, "center_y":0.521490, "width":0.180658, "height":0.116825}, "confidence":0.992422}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13840.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330472, "center_y":0.521535, "width":0.181035, "height":0.116090}, "confidence":0.993039}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-13920.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330803, "center_y":0.521245, "width":0.180535, "height":0.117397}, "confidence":0.994136}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14000.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330141, "center_y":0.521579, "width":0.180600, "height":0.116519}, "confidence":0.992851}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14080.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331056, "center_y":0.521376, "width":0.180817, "height":0.116486}, "confidence":0.994604}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14160.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331411, "center_y":0.521672, "width":0.180449, "height":0.115696}, "confidence":0.993455}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14240.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333174, "center_y":0.521730, "width":0.177840, "height":0.114800}, "confidence":0.993401}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14320.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331028, "center_y":0.521466, "width":0.178885, "height":0.115958}, "confidence":0.994200}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14400.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331716, "center_y":0.521496, "width":0.178516, "height":0.114539}, "confidence":0.993152}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.938476, "center_y":0.931067, "width":0.124730, "height":0.139189}, "confidence":0.894753}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14480.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332451, "center_y":0.521357, "width":0.177790, "height":0.114771}, "confidence":0.993934}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14560.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330764, "center_y":0.521160, "width":0.180129, "height":0.116879}, "confidence":0.992164}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14640.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332481, "center_y":0.521315, "width":0.178766, "height":0.116053}, "confidence":0.993307}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14720.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332316, "center_y":0.520870, "width":0.177901, "height":0.116951}, "confidence":0.993067}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14800.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333910, "center_y":0.521072, "width":0.176065, "height":0.114841}, "confidence":0.994177}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14880.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.329806, "center_y":0.521754, "width":0.179822, "height":0.115913}, "confidence":0.995297}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-14960.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330994, "center_y":0.521377, "width":0.177162, "height":0.114727}, "confidence":0.993726}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15040.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332415, "center_y":0.521406, "width":0.178516, "height":0.115057}, "confidence":0.992451}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15120.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333925, "center_y":0.521287, "width":0.177025, "height":0.115615}, "confidence":0.993898}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.566593, "center_y":0.971389, "width":0.124199, "height":0.058220}, "confidence":0.269691}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15200.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.334583, "center_y":0.521213, "width":0.175823, "height":0.114501}, "confidence":0.992002}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15280.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331990, "center_y":0.521062, "width":0.179294, "height":0.115690}, "confidence":0.993976}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15360.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330815, "center_y":0.521202, "width":0.180889, "height":0.116976}, "confidence":0.993685}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15440.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333872, "center_y":0.520979, "width":0.177438, "height":0.116136}, "confidence":0.991732}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15520.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331811, "center_y":0.521513, "width":0.179045, "height":0.115889}, "confidence":0.992751}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15600.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331606, "center_y":0.521232, "width":0.179027, "height":0.116005}, "confidence":0.992962}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15680.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331138, "center_y":0.521134, "width":0.180284, "height":0.116037}, "confidence":0.993011}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15760.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331680, "center_y":0.521370, "width":0.178556, "height":0.115528}, "confidence":0.992825}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15840.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331376, "center_y":0.521426, "width":0.180228, "height":0.116038}, "confidence":0.994114}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-15920.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330231, "center_y":0.521619, "width":0.180365, "height":0.115660}, "confidence":0.994510}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16000.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330903, "center_y":0.521221, "width":0.180484, "height":0.116568}, "confidence":0.993925}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16080.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331333, "center_y":0.521274, "width":0.179520, "height":0.116157}, "confidence":0.994361}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16160.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330101, "center_y":0.521485, "width":0.181969, "height":0.116360}, "confidence":0.994129}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16240.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333010, "center_y":0.521387, "width":0.177575, "height":0.115447}, "confidence":0.993327}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16320.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330896, "center_y":0.521163, "width":0.179798, "height":0.116091}, "confidence":0.994054}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16400.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330227, "center_y":0.521185, "width":0.180678, "height":0.115625}, "confidence":0.995141}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16480.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331585, "center_y":0.521319, "width":0.179268, "height":0.116003}, "confidence":0.993015}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16560.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332844, "center_y":0.521301, "width":0.177954, "height":0.115528}, "confidence":0.993683}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16640.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331773, "center_y":0.521242, "width":0.177850, "height":0.115137}, "confidence":0.992235}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16720.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330478, "center_y":0.521407, "width":0.179335, "height":0.114957}, "confidence":0.993600}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16800.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331804, "center_y":0.521346, "width":0.178742, "height":0.115105}, "confidence":0.992422}
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16880.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332185, "center_y":0.521269, "width":0.178369, "height":0.115979}, "confidence":0.993209}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-16960.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332796, "center_y":0.521607, "width":0.177134, "height":0.114679}, "confidence":0.992823}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17040.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.329416, "center_y":0.521627, "width":0.180186, "height":0.115487}, "confidence":0.994048}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17120.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331009, "center_y":0.521534, "width":0.179562, "height":0.114626}, "confidence":0.994202}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17200.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332547, "center_y":0.521491, "width":0.178363, "height":0.114435}, "confidence":0.991656}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.517186, "center_y":0.468012, "width":0.033526, "height":0.023769}, "confidence":0.268995}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17280.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331129, "center_y":0.521199, "width":0.180092, "height":0.115986}, "confidence":0.992088}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17360.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.330925, "center_y":0.521338, "width":0.180067, "height":0.115660}, "confidence":0.993296}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17440.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332206, "center_y":0.521377, "width":0.177493, "height":0.115356}, "confidence":0.991338}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.517055, "center_y":0.468008, "width":0.032927, "height":0.023495}, "confidence":0.326039}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17520.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333047, "center_y":0.521381, "width":0.176831, "height":0.114389}, "confidence":0.990232}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.516942, "center_y":0.468099, "width":0.033165, "height":0.022642}, "confidence":0.266348}
+ ] 
+}, 
+{
+ "frame_id":109, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17600.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332383, "center_y":0.521513, "width":0.177443, "height":0.114969}, "confidence":0.992672}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.517303, "center_y":0.467690, "width":0.032678, "height":0.022389}, "confidence":0.260754}
+ ] 
+}, 
+{
+ "frame_id":110, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17680.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333777, "center_y":0.521368, "width":0.175564, "height":0.114135}, "confidence":0.991149}
+ ] 
+}, 
+{
+ "frame_id":111, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17760.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.331624, "center_y":0.521270, "width":0.179189, "height":0.115740}, "confidence":0.993311}
+ ] 
+}, 
+{
+ "frame_id":112, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17840.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.334238, "center_y":0.521202, "width":0.176319, "height":0.114357}, "confidence":0.990040}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.516971, "center_y":0.467758, "width":0.032150, "height":0.022934}, "confidence":0.299940}
+ ] 
+}, 
+{
+ "frame_id":113, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-17920.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.334437, "center_y":0.521337, "width":0.176995, "height":0.115168}, "confidence":0.992187}
+ ] 
+}, 
+{
+ "frame_id":114, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18000.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332623, "center_y":0.521387, "width":0.177840, "height":0.115023}, "confidence":0.992929}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.516930, "center_y":0.467839, "width":0.032715, "height":0.022742}, "confidence":0.252313}
+ ] 
+}, 
+{
+ "frame_id":115, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18080.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.335632, "center_y":0.521488, "width":0.173565, "height":0.114380}, "confidence":0.993059}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.517518, "center_y":0.467915, "width":0.033207, "height":0.023655}, "confidence":0.301714}
+ ] 
+}, 
+{
+ "frame_id":116, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18160.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332597, "center_y":0.521415, "width":0.177927, "height":0.114079}, "confidence":0.992057}, 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.516569, "center_y":0.467747, "width":0.031083, "height":0.022313}, "confidence":0.276870}
+ ] 
+}, 
+{
+ "frame_id":117, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18240.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333415, "center_y":0.521363, "width":0.177315, "height":0.115389}, "confidence":0.993639}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.612008, "center_y":0.443057, "width":0.013787, "height":0.055277}, "confidence":0.826191}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.770479, "center_y":0.946151, "width":0.144953, "height":0.107559}, "confidence":0.594731}
+ ] 
+}, 
+{
+ "frame_id":118, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18320.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332236, "center_y":0.521226, "width":0.179301, "height":0.116170}, "confidence":0.993676}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.611040, "center_y":0.448935, "width":0.013138, "height":0.056481}, "confidence":0.755055}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.767825, "center_y":0.951313, "width":0.132942, "height":0.097837}, "confidence":0.283434}
+ ] 
+}, 
+{
+ "frame_id":119, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18400.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.334205, "center_y":0.521109, "width":0.177351, "height":0.115967}, "confidence":0.992615}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.610497, "center_y":0.451296, "width":0.013893, "height":0.061791}, "confidence":0.711922}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.804066, "center_y":0.971670, "width":0.130367, "height":0.056412}, "confidence":0.607519}
+ ] 
+}, 
+{
+ "frame_id":120, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18480.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.332601, "center_y":0.521288, "width":0.178915, "height":0.115931}, "confidence":0.992833}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.603866, "center_y":0.456111, "width":0.012490, "height":0.065807}, "confidence":0.718239}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.815634, "center_y":0.956868, "width":0.149563, "height":0.087319}, "confidence":0.584598}
+ ] 
+}, 
+{
+ "frame_id":121, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18560.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.333511, "center_y":0.521154, "width":0.176710, "height":0.116013}, "confidence":0.992565}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.602853, "center_y":0.463142, "width":0.016120, "height":0.075196}, "confidence":0.735360}
+ ] 
+}, 
+{
+ "frame_id":122, 
+ "filename":"/mydrive/sp/videos/frames/2_GP028008-frames/2_GP028008-18640.png", 
+ "objects": [ 
+  {"class_id":2, "name":"car", "relative_coordinates":{"center_x":0.334318, "center_y":0.521393, "width":0.173288, "height":0.115101}, "confidence":0.989901}, 
+  {"class_id":0, "name":"person", "relative_coordinates":{"center_x":0.502562, "center_y":0.957712, "width":0.143301, "height":0.085036}, "confidence":0.723148}
+ ] 
+}
+]
