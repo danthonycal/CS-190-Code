@@ -6,18 +6,9 @@ import sys
 import cv2
 import math
 import glob
-import argparse
+from vtfArgs import VidToFrameArgs
 import numpy as np
 import matplotlib.pyplot as plt
-
-def args():
-	parser = argparse.ArgumentParser(description="vidToFrame Arguments")
-	parser.add_argument("--file_end", dest="file_end", help="\".MP4\" or \"8008.MP4\"", default=".MP4", type=str)
-
-	global args
-	args = parser.parse_args()
-	
-	# return args
 
 def get_vid_paths():
 	paths = []
@@ -36,8 +27,8 @@ def vidToFrame(vid_file, count, success):
 	vid_id = vid_file[-14:-4]
 	vid_frame_folder = f"{vid_id}-frames"
 
-	if not os.path.exists(f"{os.getcwd()}\\videos\\frames\\{vid_frame_folder}"):
-		os.makedirs(f"{os.getcwd()}\\videos\\frames\\{vid_frame_folder}")
+	if not os.path.exists(f"{os.getcwd()}\\frames\\{vid_frame_folder}"):
+		os.makedirs(f"{os.getcwd()}\\frames\\{vid_frame_folder}")
 
 	vid_cap = cv2.VideoCapture(vid_file)
 	vid_cap.set(cv2.CAP_PROP_POS_FRAMES, 160)
@@ -61,8 +52,8 @@ def vidToFrame(vid_file, count, success):
 			continue
 		# if (count%fps==0):
 		success, frame = vid_cap.read()
-		output_path = f"\\videos\\frames\\{vid_frame_folder}\\{vid_id}-{count}.png"
-		save_path = f"/videos/frames/{vid_frame_folder}/{vid_id}-{count}.png\n"
+		output_path = f"\\frames\\{vid_frame_folder}\\{vid_id}-{count}.png"
+		save_path = f"/frames/{vid_frame_folder}/{vid_id}-{count}.png\n"
 		file_loc.append(save_path)
 		plt.imsave(f"{os.getcwd()}\\{output_path}", frame, cmap=plt.cm.gray)
 		printProgressBar(i + 1, total_files, prefix='Progress:', suffix='Complete', length=50)
@@ -82,13 +73,13 @@ def processVidToFrame(file_end):
 	frame_name = "frame"
 	vid_paths = get_vid_paths()
 
-	if not os.path.exists('\\videos\\frames'):
-		os.makedirs('\\videos\\frames')
+	if not os.path.exists('\\frames'):
+		os.makedirs('\\frames')
 
 	print(vid_paths)
 	for vid_path in vid_paths:
 		vidToFrame(vid_path, count, success)
 
 if __name__ == "__main__":
-	args()
+	args = VidToFrameArgs()
 	processVidToFrame(args.file_end)
