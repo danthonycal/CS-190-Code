@@ -66,20 +66,21 @@ def vidToFrame(vid_file, count, success):
 		for i in range(len(file_loc)):
 			f.write(file_loc[i])
 
-def processVidToFrame(file_end):
+def processVidToFrame():
 	count = 0
 	lock = Lock()
 	success = True
 	frame_name = "frame"
 	vid_paths = get_vid_paths()
 
-	if not os.path.exists('\\frames'):
-		os.makedirs('\\frames')
+	if not os.path.exists(f'{args.res_path}\\frames'):
+		os.makedirs(f'{args.res_path}\\frames')
 
 	print(vid_paths)
 	for vid_path in vid_paths:
 		vidToFrame(vid_path, count, success)
 
 if __name__ == "__main__":
+	global args
 	args = VidToFrameArgs()
-	processVidToFrame(args.file_end)
+	processVidToFrame()
