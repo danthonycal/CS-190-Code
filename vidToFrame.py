@@ -1,12 +1,10 @@
-from yolo2 import *
-from multiprocessing import Process, Lock
 from progressBar import printProgressBar
+from vtfArgs import VidToFrameArgs
+from yolo2 import *
 import os
-import sys
 import cv2
 import math
 import glob
-from vtfArgs import VidToFrameArgs
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -50,7 +48,6 @@ def vidToFrame(vid_file, count, success):
 			success, frame = vid_cap.read()
 			count += 1
 			continue
-		# if (count%fps==0):
 		success, frame = vid_cap.read()
 		output_path = f"/frames/{vid_frame_folder}/{vid_id}-{count}.png"
 		save_path = f"/frames/{vid_frame_folder}/{vid_id}-{count}.png\n"
