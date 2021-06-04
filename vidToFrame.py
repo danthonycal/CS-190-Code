@@ -65,7 +65,6 @@ def vidToFrame(vid_file, count, success):
 
 def processVidToFrame():
 	count = 0
-	lock = Lock()
 	success = True
 	frame_name = "frame"
 	vid_paths = get_vid_paths()
