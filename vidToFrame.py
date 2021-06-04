@@ -10,8 +10,7 @@ import matplotlib.pyplot as plt
 
 def get_vid_paths():
 	paths = []
-	dynamic_path = os.getcwd()
-	path = dynamic_path+"/videos"
+	path = args.videos_path
 	for subdir, dirs, files in os.walk(path):
 		for filename in files:
 			filepath = subdir + os.sep + filename
